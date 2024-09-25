@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3888924398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97402cea0c3fd0c1165f754a1b049c3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bac64f60cd44d331cbe58c6b18790618
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97402cea0c3fd0c1165f754a1b049c3a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebb6a666ad552934f9292c89d1653884, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/UI/Prefabs/PlotEndPanel.prefab
+Dependencies: []

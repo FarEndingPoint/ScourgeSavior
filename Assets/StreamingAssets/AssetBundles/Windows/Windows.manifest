@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2127724473
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mainmenupanel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: readypanel_prefab
+      Dependencies: {}
+    Info_2:
+      Name: settingspanel_prefab
+      Dependencies: {}
+    Info_3:
+      Name: plotpanel_prefab
+      Dependencies: {}
+    Info_4:
+      Name: plotendpanel_prefab
+      Dependencies: {}

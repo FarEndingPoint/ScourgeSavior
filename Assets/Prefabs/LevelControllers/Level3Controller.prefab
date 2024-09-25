@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8663838699984847087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1195550532418404858}
+  - component: {fileID: 7127565362027278372}
+  m_Layer: 0
+  m_Name: Level3Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1195550532418404858
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8663838699984847087}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7127565362027278372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8663838699984847087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7436b82f7114a1b418b9d8f27025e765, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _level: 3
+  enemies:
+  - {fileID: 6021458303798970635, guid: 1e185fab4c5fc914984d7a09e7201c16, type: 3}
+  - {fileID: 5249611379401425890, guid: ec72631a2ec211a439ed6f7bae2ac6ac, type: 3}
+  - {fileID: 6299234323494017115, guid: 7bee53311b53e9840b6508a21fb7001f, type: 3}
+  - {fileID: 6169789185061329703, guid: de4ba68cbe2ff794f9aad721a5e8a215, type: 3}
+  - {fileID: 4122248338000721035, guid: 2d5d76e5afa23ba46a133e4c4a3ad890, type: 3}
+  - {fileID: 475225052399040685, guid: 582a2c417304d7245bb996ef410f78d0, type: 3}
+  - {fileID: 7495365365786398136, guid: e7b6f88c4eed4df489711d24b9b051e9, type: 3}
+  points:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  backgroundColor: {fileID: 0}
+  levelName: {fileID: 0}
+  totalEnemyNum: 40
+  minCurEnemyNum: 5
+  maxCurEnemyNum: 11
+  generateGapTime: 2
